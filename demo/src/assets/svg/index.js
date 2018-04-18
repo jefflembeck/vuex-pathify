@@ -1,12 +1,13 @@
 export default {
-  'snow': require('!!raw-loader!./snow.svg'),
-  'wind': require('!!raw-loader!./wind.svg'),
-  'leaf': require('!!raw-loader!./leaf.svg'),
-  'hail': require('!!raw-loader!./hail.svg'),
-  'storm': require('!!raw-loader!./storm.svg'),
-  'cloudy': require('!!raw-loader!./cloudy.svg'),
-  'autumn': require('!!raw-loader!./autumn.svg'),
-  'rainbow': require('!!raw-loader!./rainbow.svg'),
-  'tornado': require('!!raw-loader!./tornado.svg'),
-  'sunrise': require('!!raw-loader!./sunrise.svg'),
+  // using txt to forcing compatibility with codesandbox.io
+  'snow': require('./snow.svg.txt'),
+  'wind': require('./wind.svg.txt'),
+  'leaf': require('./leaf.svg.txt'),
+  'hail': require('./hail.svg.txt'),
+  'storm': require('./storm.svg.txt'),
+  'cloudy': require('./cloudy.svg.txt'),
+  'autumn': require('./autumn.svg.txt'),
+  'rainbow': require('./rainbow.svg.txt'),
+  'tornado': require('./tornado.svg.txt'),
+  'sunrise': require('./sunrise.svg.txt'),
 }
