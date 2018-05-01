@@ -17,10 +17,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dave Stewart <dave@davestewart.io>",
-  "homepage": "https://github.com/davestewart/vuex-pathify#readme",
+  "homepage": "https://github.com/jefflembeck/vuex-pathify#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davestewart/vuex-pathify.git"
+    "url": "git+https://github.com/jefflembeck/vuex-pathify.git"
   },
   "keywords": [
     "vuex",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davestewart/vuex-pathify/issues"
+    "url": "https://github.com/jefflembeck/vuex-pathify/issues"
   },
   "dependencies": {
     "lodash.clonedeep": "^4.5.0"
